@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Gabinete Gamer",
+    "preco": "Kz 12.500",
+    "imagem": "https://raw.githubusercontent.com/Ernestosantos90/basico-shopp-assets/main/produtos/gabinete.webp",
+    "destaque": true,
+    "categoria": "gabinetes"
+  },
+  {
+    "id": 2,
+    "nome": "Gabinete Pro",
+    "preco": "Kz 14.500",
+    "imagem": "https://raw.githubusercontent.com/Ernestosantos90/basico-shopp-assets/main/produtos/gabinete-pro.webp",
+    "destaque": false,
+    "categoria": "gabinetes"
+  },
+  {
+    "id": 3,
+    "nome": "Monitor RGB",
+    "preco": "Kz 19.999",
+    "imagem": "https://raw.githubusercontent.com/Ernestosantos90/basico-shopp-assets/main/produtos/monitor.webp",
+    "destaque": true,
+    "categoria": "monitores"
+  }
+]
